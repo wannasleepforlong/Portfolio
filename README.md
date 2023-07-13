@@ -43,6 +43,9 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
 
 All of these projects required image processing as well.
 
+- [Anime Face Generator DCGAN](https://github.com/wannasleepforlong/Anime-Face-Generator-DCGAN)
+  - Generating anime faces using DCGAN without feature-selection.
+
 - [Lego Image Generator GAN](https://github.com/wannasleepforlong/Lego-Image-Generator-GAN-2nd-Sem)
   - Generation of middish LEGO images using DCGAN.
 
