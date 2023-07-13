@@ -21,8 +21,8 @@ All of the
 
 ## Image Processing
 
-- Google Vision API Wrapper
-  - Developed a wrapper for Google Cloud's Vision API to filter inappropriate user submitted images, memes and determine percentage of image used by text. Written using flask and Pillow, deployed to AWS lambda using zappa.
+- [CIFAR-10 RNN](https://github.com/wannasleepforlong/ML-Practise-Projects/blob/main/CIFAR-10%5BRNN%5D.ipynb)
+  - Classfication of cifar-10 dataset using RNN.
 
 
 ## Audio Processing
@@ -32,11 +32,14 @@ All of the
 
 
 ## Computer Vision
+
 - [Deployed Face Detection Attendance System](https://github.com/wannasleepforlong/Deployed-Face-Detection-Attendance-System)
   - Face attendance system with the functions of taking, reading and compiling attendance deployed using streamlit.
 
 
 ## Generative Adversarial Networks (GANs)
+
+All of these projects required image processing as well, 
 
 - [Lego Image Generator GAN](https://github.com/wannasleepforlong/Lego-Image-Generator-GAN-2nd-Sem)
   - Generation of middish LEGO images using DCGAN.
@@ -51,6 +54,6 @@ All of the
   - Generation of face images using DCGAN without feature-selection.
 
 
-## Data Munging (Cleaning)
+## Data Munging
 
-While most, if not all, of these projects have a data munging aspect, the following were specifically exclusively data munging efforts.
+Even though most of these projects have some sort of data munging, following were specifically data munging projects.
