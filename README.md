@@ -50,11 +50,6 @@ All of these projects required image processing as well.
   - Generation of face images using DCGAN without feature-selection.
 
 
-## Data Munging
-
-Even though most of these projects have some sort of data munging, following were specifically data munging projects.
-
-
 ## Books and Tutorials
 
 Some of the codes I have tried to reproduce from ML and DL books.
