@@ -1,4 +1,4 @@
-# ```diff Data Science Portfolio - Abhinav Painuli in blue```
+# Data Science Portfolio - Abhinav Painuli 
 
 Hey! I am Abhinav Painuli and this portfolio represents all my work and accomplisments in Data Science.
 
