@@ -1,4 +1,4 @@
-# Data Science Portfolio - Abhinav Painuli 
+# **Data Science Portfolio** - Abhinav Painuli 
 
 Hey! I am Abhinav Painuli and this portfolio represents all my work and accomplisments in Data Science.
 
