@@ -6,7 +6,7 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
 ## 🏆Kaggle Competitions
 
 
-## ✉️Natural Language Processing (NLP)
+## ✉️Natural Language Processing
 
 - [Basic Speech Recognizer and Sentiment Analyser](https://github.com/wannasleepforlong/Basic-Speech-Recognizer-and-Sentiment-Analyser)
   - Implemented a speech recognizer and sentiment classifier on the converted text using nltk.
@@ -59,6 +59,6 @@ Some of the codes I have tried to reproduce from ML and DL books.
 - [Siddhardhan Tutorials](https://github.com/wannasleepforlong/ML-Practise-Projects)
 
 
-## 📄Research Parers
+## 📄Research Papers
 
 Research papers I haved tried to reproduce.
