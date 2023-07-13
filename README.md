@@ -29,7 +29,10 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
 - [Speech MNIST Classification](https://github.com/wannasleepforlong/Speech-MNIST-Classification-2nd-Sem)
   - Classifying digits from 0 to 9 using audio data.
 
-
+- [Audio Data Analysis and Creation](https://github.com/wannasleepforlong/ML-Practise-Projects/blob/main/audio-data-analysis-and-creation.ipynb)
+  -  Analysis of music audio data using spectrograms and converting it back to audio.
+ 
+    
 ## 👀Computer Vision
 
 - [Deployed Face Detection Attendance System](https://github.com/wannasleepforlong/Deployed-Face-Detection-Attendance-System)
