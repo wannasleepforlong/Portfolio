@@ -47,7 +47,7 @@ All of these projects required image processing as well.
   - Generation of middish LEGO images using DCGAN.
 
 - [MNIST Image Generation and Noise Reduction Autoencoder](https://github.com/wannasleepforlong/MNIST-Image-Generation-and-Noise-Reduction-Autoencoder-2nd-Sem)
-  - Generating MNIST images and cleaning noise from the images using Autoencoder and Convolutional Autoencoder.
+  - Generating MNIST images and cleaning noise from the images using Autoencoder.
 
 - [Cat Image Generator LSGAN](https://github.com/wannasleepforlong/Cat-Image-Generator-LSGAN)
   - A cat image generator made with the help of official pytorch documentation.
