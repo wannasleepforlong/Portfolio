@@ -35,7 +35,7 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
 
 ## Generative Adversarial Networks (GANs)
 
-All of these projects required image processing as well, 
+All of these projects required image processing as well.
 
 - [Lego Image Generator GAN](https://github.com/wannasleepforlong/Lego-Image-Generator-GAN-2nd-Sem)
   - Generation of middish LEGO images using DCGAN.
