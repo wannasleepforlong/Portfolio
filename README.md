@@ -21,7 +21,7 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
   - Classfication of cifar-10 dataset using RNN.
 
 - [Handwritten Digit CLassification ANN](https://github.com/wannasleepforlong/ML-Practise-Projects/blob/main/Handwritten%20Digit%20Classifcation%5BANN%5D.ipynb)
-  -Classification of handwritten digits using ANN.
+  - Classification of handwritten digits using ANN.
 
 
 ## 🎵Audio Processing
