@@ -3,10 +3,10 @@
 Hey! I am Abhinav Painuli and this portfolio represents all my work and accomplisments in Data Science.
 
 
-## 🇰Kaggle Competitions
+## 🏆Kaggle Competitions
 
 
-## Natural Language Processing (NLP)
+## ✉️Natural Language Processing (NLP)
 
 - [Basic Speech Recognizer and Sentiment Analyser](https://github.com/wannasleepforlong/Basic-Speech-Recognizer-and-Sentiment-Analyser)
   - Implemented a speech recognizer and sentiment classifier on the converted text using nltk.
@@ -15,25 +15,25 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
   - Implemented a basic spam mail prediction using Logistic Regression.
 
 
-## Image Processing
+## 🖼️Image Processing
 
 - [CIFAR-10 RNN](https://github.com/wannasleepforlong/ML-Practise-Projects/blob/main/CIFAR-10%5BRNN%5D.ipynb)
   - Classfication of cifar-10 dataset using RNN.
 
 
-## Audio Processing
+## 🎵Audio Processing
 
 - [Speech MNIST Classification](https://github.com/wannasleepforlong/Speech-MNIST-Classification-2nd-Sem)
   - Classifying digits from 0 to 9 using audio data.
 
 
-## Computer Vision
+## 👀Computer Vision
 
 - [Deployed Face Detection Attendance System](https://github.com/wannasleepforlong/Deployed-Face-Detection-Attendance-System)
   - Face attendance system with the functions of taking, reading and compiling attendance deployed using streamlit.
 
 
-## Generative Adversarial Networks (GANs)
+## 🎨Generative Adversarial Networks (GANs)
 
 All of these projects required image processing as well.
 
@@ -50,7 +50,7 @@ All of these projects required image processing as well.
   - Generation of face images using DCGAN without feature-selection.
 
 
-## Books and Tutorials
+## 📚Books and Tutorials
 
 Some of the codes I have tried to reproduce from ML and DL books.
 
@@ -59,6 +59,6 @@ Some of the codes I have tried to reproduce from ML and DL books.
 - [Siddhardhan Tutorials](https://github.com/wannasleepforlong/ML-Practise-Projects)
 
 
-## Research Parers
+## 📄Research Parers
 
 Research papers I haved tried to reproduce.
