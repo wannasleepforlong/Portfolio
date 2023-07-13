@@ -6,9 +6,6 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
 ## Kaggle Competitions
 
 
-## Visualizations
-
-
 ## Natural Language Processing (NLP)
 
 - [Basic Speech Recognizer and Sentiment Analyser](https://github.com/wannasleepforlong/Basic-Speech-Recognizer-and-Sentiment-Analyser)
