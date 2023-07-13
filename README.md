@@ -54,6 +54,7 @@ All of these projects required image processing as well.
 
 Even though most of these projects have some sort of data munging, following were specifically data munging projects.
 
+
 ## Books and Tutorials
 
 Some of the codes I have tried to reproduce from ML and DL books.
@@ -61,3 +62,8 @@ Some of the codes I have tried to reproduce from ML and DL books.
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://github.com/wannasleepforlong/ML-Practise-Projects)
 - [Zero to Deep Learning](https://github.com/wannasleepforlong/ML-Practise-Projects)
 - [Siddhardhan Tutorials](https://github.com/wannasleepforlong/ML-Practise-Projects)
+
+
+## Research Parers
+
+Research papers I haved tried to reproduce.
