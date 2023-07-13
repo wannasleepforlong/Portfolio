@@ -57,6 +57,7 @@ Some of the codes I have tried to reproduce from ML and DL books.
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://github.com/wannasleepforlong/ML-Practise-Projects)
 - [Zero to Deep Learning](https://github.com/wannasleepforlong/ML-Practise-Projects)
 - [Siddhardhan Tutorials](https://github.com/wannasleepforlong/ML-Practise-Projects)
+- [Deep Learning Specialization Andrew NG](https://github.com/wannasleepforlong/Andrew-NG-Deep-Learning)
 
 
 ## 📄Research Papers
