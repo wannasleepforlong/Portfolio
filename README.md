@@ -1,6 +1,6 @@
-# **Data Science Portfolio** - Abhinav Painuli 
+# **Portfolio** - Abhinav Painuli 
 
-Hey! I am Abhinav Painuli and this portfolio represents all my work and accomplisments in Data Science.
+Hey! I am Abhinav Painuli and this portfolio represents all my work and accomplisments in Computer Science.
 
 
 ## 🏆Kaggle Competitions
