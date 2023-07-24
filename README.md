@@ -64,7 +64,7 @@ All of these projects required image processing as well.
 
 ## 📚Books and Tutorials
 
-Some of the codes I have tried to reproduce from ML and DL books.
+Some of the codes I have tried to reproduce from ML and DL books and tutorials.
 
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://github.com/wannasleepforlong/ML-Practise-Projects)
 
