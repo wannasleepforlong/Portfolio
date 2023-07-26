@@ -43,7 +43,7 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
   - Face attendance system with the functions of taking, reading and compiling attendance deployed using streamlit.
     
 - [Selfie Smile Detection and Capture](https://github.com/wannasleepforlong/Selfie-Smile-Detection-and-Capture)
-  - Automatically captures a photo if smile detected in the selfie camera
+  - Automatically captures a photo if smile detected in the selfie camera.
 
 ## 🎨Generative Adversarial Networks (GANs)
 
