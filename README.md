@@ -21,14 +21,14 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
 
 ## 🖼️Image Processing
 
+- [ResNet-50-Implementation-for-Image-Classification](https://github.com/wannasleepforlong/ResNet-50-Implementation-for-Image-Classification)
+  - Implementing ResnNet-50 for image classification of 15 sport balls.
+
 - [CIFAR-10 RNN](https://github.com/wannasleepforlong/ML-Practise-Projects/blob/main/CIFAR-10%5BRNN%5D.ipynb)
   - Classfication of cifar-10 dataset using RNN.
 
 - [Handwritten Digit CLassification ANN](https://github.com/wannasleepforlong/ML-Practise-Projects/blob/main/Handwritten%20Digit%20Classifcation%5BANN%5D.ipynb)
   - Classification of handwritten digits using ANN.
-
-- [ResNet-50-Implementation-for-Image-Classification](https://github.com/wannasleepforlong/ResNet-50-Implementation-for-Image-Classification)
-  - Implementing ResnNet-50 for image classification of 15 sport balls.
 
 
 ## 🎵Audio Processing
