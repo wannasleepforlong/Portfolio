@@ -9,6 +9,7 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
   
   - Classification of transportation of people in the Spaceship titanic using XGBoost and RandomForest classifier.
 
+
 ## ✉️Natural Language Processing
 
 - [Basic Speech Recognizer and Sentiment Analyser](https://github.com/wannasleepforlong/Basic-Speech-Recognizer-and-Sentiment-Analyser)
@@ -25,6 +26,9 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
 
 - [Handwritten Digit CLassification ANN](https://github.com/wannasleepforlong/ML-Practise-Projects/blob/main/Handwritten%20Digit%20Classifcation%5BANN%5D.ipynb)
   - Classification of handwritten digits using ANN.
+
+- [ResNet-50-Implementation-for-Image-Classification](https://github.com/wannasleepforlong/ResNet-50-Implementation-for-Image-Classification)
+  - Implementing ResnNet-50 for image classification of 15 sport balls.
 
 
 ## 🎵Audio Processing
@@ -44,6 +48,7 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
     
 - [Selfie Smile Detection and Capture](https://github.com/wannasleepforlong/Selfie-Smile-Detection-and-Capture)
   - Automatically captures a photo if smile detected in the selfie camera.
+
 
 ## 🎨Generative Adversarial Networks (GANs)
 
