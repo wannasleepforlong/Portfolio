@@ -12,6 +12,9 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
 
 ## ✉️Natural Language Processing
 
+- [Contradictory, My Dear Watson](https://github.com/wannasleepforlong/Contradictory-My-Dear-Watson)
+  - Detecting contradiction and entailment in multilingual text with NLP using TPU utilizing XLM-RoBERTa.
+
 - [Basic Speech Recognizer and Sentiment Analyser](https://github.com/wannasleepforlong/Basic-Speech-Recognizer-and-Sentiment-Analyser)
   - Implemented a speech recognizer and sentiment classifier on the converted text using nltk.
     
