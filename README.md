@@ -44,9 +44,9 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
     
 ## 👀Computer Vision
 
-- [Augmented Reality Whack-a-Mole](https://github.com/wannasleepforlong/Deployed-Face-Detection-Attendance-System)
+- [Augmented Reality Whack-a-Mole](https://github.com/wannasleepforlong/Augmented-Reality-Whack-a-Mole)
   
-  - Whack-a-mole.
+  - Whack-a-mole game implementing computer vision through webcam.
     
 - [Deployed Face Detection Attendance System](https://github.com/wannasleepforlong/Deployed-Face-Detection-Attendance-System)
   
