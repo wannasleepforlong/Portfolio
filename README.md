@@ -47,7 +47,10 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
 - [Augmented Reality Whack-a-Mole](https://github.com/wannasleepforlong/Augmented-Reality-Whack-a-Mole)
   
   - Whack-a-mole game implementing computer vision through webcam.
-    
+
+- [YOLO Road Sign Detection](https://github.com/wannasleepforlong/YOLO-Road-Sign-Detection-)
+  - R    
+
 - [Deployed Face Detection Attendance System](https://github.com/wannasleepforlong/Deployed-Face-Detection-Attendance-System)
   
   - Face attendance system with the functions of taking, reading and compiling attendance deployed using streamlit.
