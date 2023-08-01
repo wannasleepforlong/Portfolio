@@ -49,7 +49,7 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
   - Whack-a-mole game implementing computer vision through webcam.
 
 - [YOLO Vehicle Detection](https://github.com/wannasleepforlong/YOLO-Road-Sign-Detection-)
-  - Road Sign detection using YOLOv8 by transfer learning. 
+  - Vehicle detection using YOLOv8 by transfer learning. 
 
 - [Deployed Face Detection Attendance System](https://github.com/wannasleepforlong/Deployed-Face-Detection-Attendance-System)
   
