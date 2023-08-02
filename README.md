@@ -44,10 +44,6 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
     
 ## 👀Computer Vision
 
-- [Augmented Reality Whack-a-Mole](https://github.com/wannasleepforlong/Augmented-Reality-Whack-a-Mole)
-  
-  - Whack-a-mole game implementing computer vision through webcam.
-
 - [YOLO Vehicle Detection](https://github.com/wannasleepforlong/YOLO-Road-Sign-Detection-)
   - Vehicle detection using YOLOv8 by transfer learning. 
 
