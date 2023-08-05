@@ -57,6 +57,9 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
 - [Selfie Smile Detection and Capture](https://github.com/wannasleepforlong/Selfie-Smile-Detection-and-Capture)
   - Automatically captures a photo if smile detected in the selfie camera.
 
+- [Real-time-OCR-Camera](https://github.com/wannasleepforlong/Real-time-OCR-Camera)
+  - OCR using a webcam to detect text in real-time.
+
 
 ## 🎨Generative Adversarial Networks (GANs)
 
