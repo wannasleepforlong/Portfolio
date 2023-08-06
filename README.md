@@ -98,5 +98,5 @@ Some of the codes I have tried to reproduce from ML and DL books and tutorials.
 
 Research papers I haved tried to reproduce.  
 
-- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://github.com/wannasleepforlong/ML-Practise-Projects)
+- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://github.com/wannasleepforlong/Unpaired-Image-to-Image-Translation-using-Cycle-Consistent-Adversarial-Networks)
 
