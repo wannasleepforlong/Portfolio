@@ -27,7 +27,7 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
   - Implementing ResnNet-50 for image classification of 15 sport balls by transfer learning.
 
 - [Custom Face Dataset StyleGan-3](https://github.com/wannasleepforlong/Custom-Face-Dataset-StyleGan3)
-  - Implementing StyleGan-3 on custom dataset.
+  - Implementing StyleGan-3 on custom dataset for high-resolution images.
 
 - [CIFAR-10 RNN](https://github.com/wannasleepforlong/ML-Practise-Projects/blob/main/CIFAR-10%5BRNN%5D.ipynb)
   - Classfication of cifar-10 dataset using RNN.
