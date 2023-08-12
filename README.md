@@ -14,6 +14,9 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
 
 ## ✉️Natural Language Processing
 
+- [Basic Question-Answerer distilBERT](https://github.com/wannasleepforlong/Basic-Question-Answerer-distilBERT)
+  - Implemented a basic question-answerer from any text using transformers.
+  
 - [Basic Speech Recognizer and Sentiment Analyser](https://github.com/wannasleepforlong/Basic-Speech-Recognizer-and-Sentiment-Analyser)
   - Implemented a speech recognizer and sentiment classifier on the converted text using nltk.
     
