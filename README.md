@@ -101,7 +101,8 @@ Some of the codes I have tried to reproduce from ML and DL books and tutorials.
 
 - [Deep Learning Specialization Andrew NG](https://github.com/wannasleepforlong/Andrew-NG-Deep-Learning)
 
-
+- [MIT 6.S191: Deep Generative Modeling](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+  
 ## 📄Research Papers  
 
 Research papers I haved tried to reproduce.  
