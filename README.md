@@ -14,6 +14,9 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
 
 ## ✉️Natural Language Processing
 
+- [TutKids ChatBot using Google PaLM and FastAPI](https://github.com/wannasleepforlong/TutKids-ChatBot-using-Google-PaLM-and-FastAPI)
+  - Implemented a chatbot using Google PaLM and built an api using FastAPI.
+
 - [Basic Question-Answerer distilBERT](https://github.com/wannasleepforlong/Basic-Question-Answerer-distilBERT)
   - Implemented a basic question-answerer from any text using transformers.
   
