@@ -27,6 +27,11 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
   - Implemented a basic spam mail prediction using Logistic Regression.
 
 
+## 🔎Data Analysis
+- [Book Recommender Website using Streamlit and-Docker](https://github.com/wannasleepforlong/Book-Recommender-Website-using-Streamlit-and-Docker)
+  - Deployed a website for recommendations of books using streamlit and docker.
+
+
 ## ⚙️Recommendation Systems
 - [Book Recommender Website using Streamlit and-Docker](https://github.com/wannasleepforlong/Book-Recommender-Website-using-Streamlit-and-Docker)
   - Deployed a website for recommendations of books using streamlit and docker.
