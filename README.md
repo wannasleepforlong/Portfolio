@@ -28,12 +28,12 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work and accompli
 
 
 ## 🔎Data Analysis
-- [Book Recommender Website using Streamlit and-Docker](https://github.com/wannasleepforlong/Book-Recommender-Website-using-Streamlit-and-Docker)
-  - Deployed a website for recommendations of books using streamlit and docker.
+- [Customer Analysis by Clustering](https://github.com/wannasleepforlong/Book-Recommender-Website-using-Streamlit-and-Docker)
+  - Analysed customer behaviour by clustering them using K-Means.
 
 
 ## ⚙️Recommendation Systems
-- [Book Recommender Website using Streamlit and-Docker](https://github.com/wannasleepforlong/Book-Recommender-Website-using-Streamlit-and-Docker)
+- [Book Recommender Website using Streamlit and Docker](https://github.com/wannasleepforlong/Book-Recommender-Website-using-Streamlit-and-Docker)
   - Deployed a website for recommendations of books using streamlit and docker.
 
 
