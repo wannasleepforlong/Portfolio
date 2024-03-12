@@ -1,6 +1,6 @@
 # **Portfolio** - Abhinav Painuli 
 
-Hey! I am Abhinav Painuli and this portfolio represents all my work and accomplisments in Computer Science.
+Hey! I am Abhinav Painuli and this portfolio represents all my work in Computer Science.
 
 
 ## 🏆Kaggle Competitions
