@@ -13,8 +13,9 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work in Computer 
     
 
 ## ✉️Natural Language Processing
-- [Vector-Database-Retriever-using-Weaviate and PaLM](https://github.com/wannasleepforlong/Vector-Database-Retriever-using-Weaviate)
-  - 
+
+- [Vector Database Retriever using Weaviate and PaLM](https://github.com/wannasleepforlong/Vector-Database-Retriever-using-Weaviate)
+  - Mhmm
 
 - [TutKids ChatBot using Google PaLM and FastAPI](https://github.com/wannasleepforlong/TutKids-ChatBot-using-Google-PaLM-and-FastAPI)
   - Implemented a chatbot using Google PaLM and built an api using FastAPI.
