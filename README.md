@@ -20,8 +20,8 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work in Computer 
 - [TutKids ChatBot using Google PaLM and FastAPI](https://github.com/wannasleepforlong/TutKids-ChatBot-using-Google-PaLM-and-FastAPI)
   - Implemented a chatbot using Google PaLM and built an api using FastAPI.
 
-- [Basic Question-Answerer distilBERT](https://github.com/wannasleepforlong/Basic-Question-Answerer-distilBERT)
-  - Implemented a basic question-answerer from any text using transformers.
+- [Table-based Basic Question-Answering with Tapas](https://github.com/wannasleepforlong/Table-based-Basic-Question-Answering-with-Tapas)
+  - Implemented a basic question-answerer from any database uploaded using transformers deployed on streamlit.
   
 - [Basic Speech Recognizer and Sentiment Analyser](https://github.com/wannasleepforlong/Basic-Speech-Recognizer-and-Sentiment-Analyser)
   - Implemented a speech recognizer and sentiment classifier on the converted text using nltk.
