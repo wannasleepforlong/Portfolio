@@ -42,6 +42,9 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work in Computer 
 
 ## 🖼️Image Processing
 
+- [Self-Driving Car](https://github.com/wannasleepforlong/Self-Driving-Car)
+  - Implementing an autonomous self-driving car using CNN and Udacity car simulator.
+
 - [ResNet-50 Implementation for Image Classification](https://github.com/wannasleepforlong/ResNet-50-Implementation-for-Image-Classification)
   - Implementing ResnNet-50 for image classification of 15 sport balls by transfer learning.
 
