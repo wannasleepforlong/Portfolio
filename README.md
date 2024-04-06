@@ -118,6 +118,8 @@ Some of the codes I have tried to reproduce from ML and DL books and tutorials.
 
 Research papers I haved tried to reproduce.  
 
+- [Analysis of Anatomical Tracings of Lesions After Stroke](https://github.com/wannasleepforlong/Analysis-of-Anatomical-Tracings-of-Lesions-After-Stroke)
+
 - [Euler State Networks: Non-dissipative Reservoir Computing](https://github.com/wannasleepforlong/Multi-Lang-Character-Recognition-CIC)
 
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://github.com/wannasleepforlong/Unpaired-Image-to-Image-Translation-using-Cycle-Consistent-Adversarial-Networks)
