@@ -11,6 +11,9 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work in Computer 
 
 ## ✉️Natural Language Processing
 
+- [Retrieval Augmented Generation with Open Source LLM](https://github.com/wannasleepforlong/Retrieval-Augmented-Generation-with-Open-Source-LLM-and-LangChain)
+  - Built a RAG-based chatbot on pdf documents with Zephyr-7b, HuggingFace and ChromaDB.
+
 - [Vector Database Retriever using Weaviate, HuggingFace, and FastAPI](https://github.com/wannasleepforlong/Vector-Database-Retriever-using-Weaviate-HuggingFace-and-FastAPI)
   - Built a vector database retriever using Weaviate and HuggingFace API and deployed it using FastAPI
 
