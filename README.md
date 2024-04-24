@@ -42,6 +42,9 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work in Computer 
 
 ## 🖼️Image Processing
 
+- [Analysis of Anatomical Tracings of Lesions After Stroke](https://github.com/wannasleepforlong/Analysis-of-Anatomical-Tracings-of-Lesions-After-Stroke)
+  - Segmentation on Brain MRI scans for the tracing of lesion dute to stroke.
+
 - [Self-Driving Car](https://github.com/wannasleepforlong/Self-Driving-Car)
   - Implementing an autonomous self-driving car using CNN and Udacity car simulator.
 
