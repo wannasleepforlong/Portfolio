@@ -63,6 +63,9 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work in Computer 
 
 ## 🎵Audio Processing
 
+- [Hindi Whisper Automatic Speech Recognition](https://github.com/wannasleepforlong/Hindi-Whisper-Automatic-Speech-Recognition)
+  - Automatic transcription of Hindi audiofiles using Whisper OpenAI.
+
 - [Speech MNIST Classification](https://github.com/wannasleepforlong/Speech-MNIST-Classification-2nd-Sem)
   - Classifying digits from 0 to 9 using audio data.
 
