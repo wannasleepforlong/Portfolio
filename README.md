@@ -75,6 +75,9 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work in Computer 
     
 ## 👀Computer Vision
 
+- [RPS Predictor Bot using Markov Chains](https://github.com/wannasleepforlong/Rock-Paper-Scissors-Predictor-on-Pseudo-Random-Number-Generator)
+  - RPS predictor bot using Markov chains able to understand patterns. 
+
 - [YOLO Vehicle Detection](https://github.com/wannasleepforlong/YOLO-Road-Sign-Detection-)
   - Vehicle detection using YOLOv8 by transfer learning. 
 
