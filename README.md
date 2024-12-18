@@ -3,12 +3,6 @@
 Hey! I am Abhinav Painuli and this portfolio represents all my work in Computer Science.
 
 
-## 🏆Kaggle Competitions
-
-- [Spaceship Titanic Prediction](https://github.com/wannasleepforlong/Spaceship-Titanic-Transport-Prediction)
-  - Classification of transportation of people in the Spaceship titanic using XGBoost and RandomForest classifier.
-    
-
 ## ✉️Natural Language Processing
 
 - [Conversational Document Assistant using RAG](https://github.com/wannasleepforlong/Conversational-Document-Assistant-using-RAG)
@@ -111,6 +105,12 @@ All of these projects required image processing as well.
 - [Celeba Face Generator DCGAN](https://github.com/wannasleepforlong/Celeba-Face-Generator-DCGAN)
   - Generation of face images using DCGAN without feature-selection.
 
+
+## 🏆Kaggle Competitions
+
+- [Spaceship Titanic Prediction](https://github.com/wannasleepforlong/Spaceship-Titanic-Transport-Prediction)
+  - Classification of transportation of people in the Spaceship titanic using XGBoost and RandomForest classifier.
+    
 
 ## 📚Books and Tutorials
 
