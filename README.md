@@ -2,7 +2,7 @@
 
 Hey! I am Abhinav Painuli and this portfolio represents all my work in Data Science.
 
-##🧑‍💼Internships
+## 🧑‍💼Internships
 
 - Machine Learning Intern – BharatGen (Oct 2024 – Mar 2025, Remote)
   -Fine-tuned multiple LLMs from Hugging Face for optimized performance on custom datasets.
