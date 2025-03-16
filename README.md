@@ -1,8 +1,16 @@
 # **Portfolio** - Abhinav Painuli 
 
-Hey! I am Abhinav Painuli and this portfolio represents all my work in Computer Science.
+Hey! I am Abhinav Painuli and this portfolio represents all my work in Data Science.
 
+##🧑‍💼Internships
 
+- Machine Learning Intern – BharatGen (Oct 2024 – Mar 2025, Remote)
+  -Fine-tuned multiple LLMs from Hugging Face for optimized performance on custom datasets.
+  -Developed multilingual ASR pipelines using IndicWav2Vec, IndicConformer, and IndicWhisper models with diarization, Voice Activity Detection (VAD), and XML generation.
+  -Built ASR error detection pipelines to correct segmentation errors, number mismatches, compound words, and underrepresented characters.
+  -Conducted no-shot, one-shot, and few-shot inference with ChatGPT to evaluate hypothesis accuracy.
+  -Generated embeddings for analyzing speakers and transcriptions across audio datasets.
+  
 ## ✉️Natural Language Processing
 
 - [Conversational Document Assistant using RAG](https://github.com/wannasleepforlong/Conversational-Document-Assistant-using-RAG)
