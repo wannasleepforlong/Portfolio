@@ -10,7 +10,12 @@ Hey! I am Abhinav Painuli and this portfolio represents all my work in Data Scie
   - Built ASR error detection pipelines to correct segmentation errors, number mismatches, compound words, and underrepresented characters.  
   - Conducted no-shot, one-shot, and few-shot inference with ChatGPT to evaluate hypothesis accuracy.  
   - Generated embeddings for analyzing speakers and transcriptions across audio datasets.  
-  
+
+## 🕵️👩‍⚖️Agentic AI
+- [Automated WhatsApp Agent LifeLift Coach](https://github.com/wannasleepforlong/Automated-WhatsApp-Agent-LifeLift-Coach/)
+  - Built a smart Life Coach chatbot assistant with n8n, GPT-4.1 mini and Gemini 2.0 Flash-Lite.
+
+
 ## ✉️Natural Language Processing
 
 - [Conversational Document Assistant using RAG](https://github.com/wannasleepforlong/Conversational-Document-Assistant-using-RAG)
